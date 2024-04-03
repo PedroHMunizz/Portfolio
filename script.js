@@ -31,7 +31,7 @@ window.onscroll = () => {
     navbar.classList.remove('active'); 
 };
 var typed= new Typed(".text", {
-    strings: ["Programador","Desenvolvedor Web",],
+    strings: ["Analista de Suporte","Programador",],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
